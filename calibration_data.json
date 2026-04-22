@@ -1,0 +1,33 @@
+{
+  "min_x": 0.475,
+  "max_x": 0.525,
+  "min_y": 0.40327402619700403,
+  "max_y": 0.4921363643611002,
+  "gaze_samples": {
+    "top_left": {
+      "avg_x": 0.5,
+      "avg_y": 0.468701299391524,
+      "samples_count": 20
+    },
+    "top_right": {
+      "avg_x": 0.5,
+      "avg_y": 0.4244989749442148,
+      "samples_count": 20
+    },
+    "center": {
+      "avg_x": 0.5,
+      "avg_y": 0.4483316945662724,
+      "samples_count": 20
+    },
+    "bottom_left": {
+      "avg_x": 0.5,
+      "avg_y": 0.44053008313089775,
+      "samples_count": 20
+    },
+    "bottom_right": {
+      "avg_x": 0.5,
+      "avg_y": 0.426039105644647,
+      "samples_count": 20
+    }
+  }
+}
